@@ -8,7 +8,7 @@
  * 	  0 = no border
  * 	100 = border width is same as cell width
  */
-static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
+static char *font = "Source Code Pro:Regular:size=16:antialias=true:autohint=true";
 int borderperc = 20;
 
 /*
